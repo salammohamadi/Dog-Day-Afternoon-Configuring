@@ -1,4 +1,4 @@
+"use strict";
 console.log('Time to get started...');
-
-let age: number;
+var age;
 age = 37;
